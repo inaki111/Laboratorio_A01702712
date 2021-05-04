@@ -9,4 +9,5 @@ int main(){
  int office = pow(2,length);
  printf("%i",office);
  // return 0; Borré estas líneas cómo SUPERVISOR cambio de A01366815
+ // Añadí este comentario A01702712
 }
